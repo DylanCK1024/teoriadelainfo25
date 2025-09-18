@@ -45,7 +45,7 @@ La implementación se realizó en un entorno de testing utilizando contenedores 
 **Puerto de acceso:** 9000  
 **URL de acceso:** [http://localhost:9000/thehive](http://localhost:9000/thehive)  
 
-![TheHive](https://github.com/user-attachments/assets/557bcbd2-dc5a-49ab-afe0-78498ee7d87b)  
+
 
 ---
 
@@ -62,8 +62,7 @@ La implementación se realizó en un entorno de testing utilizando contenedores 
 **Puerto de acceso:** 9001  
 **URL de acceso:** [http://localhost:9001/cortex](http://localhost:9001/cortex)  
 
-![Cortex-UI](https://github.com/user-attachments/assets/9bfb6dab-d978-408e-a0f5-27ee1e7886ae)  
-![Cortex-Analyzers](https://github.com/user-attachments/assets/a95666d2-4a04-4b9e-8c01-4680b61d10dc)  
+
 
 ---
 
